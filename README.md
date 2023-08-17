@@ -2,9 +2,15 @@
 
 I love making front and back-end applications and continuously learning and improving!
 
+My favorite hobbies are Biking, swimming, and running
+
+
+
 
 Currently interested in/learning about:
--Data science, especially topics that involve NN and AI projects!
+
+Data science, especially topics that involve NN and AI projects!
+
 
 
 ### Languages I have experience and worked with:
@@ -20,16 +26,17 @@ Currently interested in/learning about:
 
 Frontend:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<img align= 'left' alt = 'React' src = 'https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img align = 'left' alt = 'React Router' src = 'https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white' />
+<img  alt = 'NodeJS' src = 'https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' />
 
 Backend:
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+<img align = 'left' alt = 'Express.js' src = 'https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
+<img align = 'left' alt = 'MySQL' src = 'https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' />
+<img align = 'left' alt = 'React Query' src = 'https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white' />
+<img  alt = 'Insomnia' src = 'https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE' />
+
 
 ### How to reach me:
 Please email me at Nolanjue@gmail.com
@@ -38,7 +45,7 @@ Please email me at Nolanjue@gmail.com
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on some front and backend applications with Next.js, React, Express.js, and MySQL!
+- 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
