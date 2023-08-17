@@ -7,12 +7,16 @@ Currently interested in/learning about:
 -Data science, especially topics that involve NN and AI projects!
 
 
-### Languages I have worked with and love:
+### Languages I have experience and worked with:
+
+<img  align = 'left' alt = 'Python' src = 'https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' />
+<img align = 'left'  alt ='JavaScript' src = 'https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' />
+<img align = 'left' alt = 'Java' src = 'https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white'/>
+<img align = 'left' alt ='HTML5' src = 'https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' />
+<img  alt = 'CSS3' src = 'https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
 
 
-
-
-### My Favorite web-dev tools :
+### My Favorite web-dev tools 😊:
 
 Frontend:
 
@@ -24,6 +28,7 @@ Backend:
 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 
 ### How to reach me:
