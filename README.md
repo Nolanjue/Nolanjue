@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I’m currently working on some front and backend applications with Next.js, React, Express.js, and MySQL!
 <!--
 **Nolanjue/Nolanjue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
