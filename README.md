@@ -5,11 +5,15 @@ I love making front and back-end applications and continuously learning and impr
 My favorite hobbies are Biking, swimming, and running
 
 
+### Currently interested in/learning more about:
 
+-Data science, especially topics that involve NN and AI projects!
 
-Currently interested in/learning about:
+-More frameworks, such as Nextjs,  and more database tools!
 
-Data science, especially topics that involve NN and AI projects!
+-Improving my projects with cool features!
+
+-Cooking, always trying to learn more recipes!😋
 
 
 
