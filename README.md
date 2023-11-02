@@ -2,7 +2,6 @@
 
 I love making front and back-end applications and continuously learning and improving!
 
-My favorite hobbies are Biking, swimming, and running
 
 
 ### Currently interested in/learning more about:
