@@ -12,7 +12,6 @@ I love making front and back-end applications and continuously learning and impr
 
 -Improving my projects with cool features!
 
--Cooking, always trying to learn more recipes!😋
 
 
 
